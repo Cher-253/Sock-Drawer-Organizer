@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sortlib.h": "c",
+        "drawerlib.h": "c"
+    }
+}
